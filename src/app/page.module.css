@@ -1,0 +1,34 @@
+.container {
+  max-width: 800px;
+  margin: 80px auto;
+  padding: 0 20px;
+  text-align: center;
+}
+
+.titulo {
+  font-size: 2.5rem;
+  color: var(--cor-primaria);
+  margin-bottom: 16px;
+}
+
+.subtitulo {
+  font-size: 1.1rem;
+  color: #666;
+  margin-bottom: 32px;
+  line-height: 1.6;
+}
+
+.botao {
+  display: inline-block;
+  background-color: var(--cor-link);
+  color: white;
+  padding: 12px 28px;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 1rem;
+  transition: background-color 0.2s;
+}
+
+.botao:hover {
+  background-color: #c73652;
+}
