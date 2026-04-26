@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[22016,["/portal-noticias/_next/static/chunks/13h-0fd.p-1ga.js","/portal-noticias/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[97367,["/portal-noticias/_next/static/chunks/13h-0fd.p-1ga.js","/portal-noticias/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/portal-noticias/_next/static/chunks/0s9dx~sjk26b1.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"detalhe-module__Ixj6QW__container","children":[["$","span",null,{"className":"detalhe-module__Ixj6QW__tag","children":["Notícia #",90]}],["$","h1",null,{"className":"detalhe-module__Ixj6QW__titulo","children":"ad iusto omnis odit dolor voluptatibus"}],["$","p",null,{"className":"detalhe-module__Ixj6QW__corpo","children":"minus omnis soluta quia\nqui sed adipisci voluptates illum ipsam voluptatem\neligendi officia ut in\neos soluta similique molestias praesentium blanditiis"}],["$","hr",null,{"className":"detalhe-module__Ixj6QW__divisor"}],["$","$L2",null,{"href":"/posts","className":"detalhe-module__Ixj6QW__voltar","children":"← Voltar para todas as notícias"}]]}],[["$","link","0",{"rel":"stylesheet","href":"/portal-noticias/_next/static/chunks/0s9dx~sjk26b1.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"5odZEa8DSQ_wjT5ykk7qa"}
+5:null

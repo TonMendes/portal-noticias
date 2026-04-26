@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[22016,["/portal-noticias/_next/static/chunks/13h-0fd.p-1ga.js","/portal-noticias/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[97367,["/portal-noticias/_next/static/chunks/13h-0fd.p-1ga.js","/portal-noticias/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/portal-noticias/_next/static/chunks/05i1yderlcf6o.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"page-module___8aEwW__container","children":[["$","h1",null,{"className":"page-module___8aEwW__titulo","children":"Bem-vindo à Central de Notícias"}],["$","p",null,{"className":"page-module___8aEwW__subtitulo","children":"Fique por dentro das últimas novidades do mundo da tecnologia."}],["$","$L2",null,{"href":"/posts","className":"page-module___8aEwW__botao","children":"Ver todas as notícias →"}]]}],[["$","link","0",{"rel":"stylesheet","href":"/portal-noticias/_next/static/chunks/05i1yderlcf6o.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"5odZEa8DSQ_wjT5ykk7qa"}
+5:null
