@@ -1,6 +1,12 @@
 import Link from 'next/link';
 import styles from './detalhe.module.css';
 
+export async function generateStaticParams() {
+  const res = await fetch('https://jsonplaceholder.typicode.com/posts');
+  const posts = await res.json();
+  return posts.map((post: { id: number }) => ({ id: String(post.id) }));
+}
+
 type Post = {
   id: number;
   title: string;
